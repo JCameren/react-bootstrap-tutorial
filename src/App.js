@@ -1,5 +1,5 @@
 import './App.css';
-import {Container, Row, Col, Button, Alert, Breadcrumb, BreadcrumbItem, Card, Form} from 'react-bootstrap';
+import { Button, Alert, Breadcrumb, BreadcrumbItem, Card, Form} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ProfilePic from '/home/syogeki/react-bootstrap-tutorial/src/imgs/chibi-me.png'
 
